@@ -1,4 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
+import * as Location from "expo-location";
+import { Audio } from "expo-av";
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
