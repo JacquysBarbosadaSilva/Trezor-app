@@ -8,10 +8,11 @@
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/trezorLogo.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#f5e2b8"
     },
+    
     "ios": {
       "supportsTablet": true
     },
